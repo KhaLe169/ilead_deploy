@@ -1,0 +1,6 @@
+projectKey=ilead-app
+serverUrl=https://quality.vndirect.com.vn
+serverVersion=8.5.0.37579
+dashboardUrl=https://quality.vndirect.com.vn/dashboard?id=ilead-app
+ceTaskId=AY1YMuwh4pmRB_7tUP-4
+ceTaskUrl=https://quality.vndirect.com.vn/api/ce/task?id=AY1YMuwh4pmRB_7tUP-4

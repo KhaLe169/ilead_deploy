@@ -1,0 +1,18 @@
+{
+  "accountable": "Binh Nguyen",
+  "actId": "5400d0d2-5a61-4945-9362-0f95fdd37764",
+  "createdDate": "2024-01-24T02:06:00.000+00:00",
+  "createdUserId": "1f63824e-a9f6-11ee-98ce-544810e80f4b",
+  "createdUserName": "Binh Nguyen",
+  "id": "c20cb3af-ac5c-4af1-8303-59dbca30f7b7",
+  "name": "Toob test",
+  "onum": 1,
+  "sentDate": null,
+  "sosSoi": "sa.test1 null",
+  "statep": "0",
+  "statepName": "Chưa gửi",
+  "stateuName": null,
+  "toDate": "2024-01-15T17:00:00.000+00:00",
+  "toDateString": "2024/01/16",
+  "validator": "objective.test1 null"
+}

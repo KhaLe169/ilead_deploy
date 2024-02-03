@@ -1,0 +1,76 @@
+{
+  "actIpams": [
+    {
+      "actId": "27c5553f-8d68-44ca-af01-371fb73c548d",
+      "action": "Action",
+      "id": "6fc5487b-c701-4de7-8132-648be1832692",
+      "insight": "Insight",
+      "mindfulness": "Mindfullness",
+      "passion": "Passion"
+    }
+  ],
+  "actOutputUsers": [
+    {
+      "actId": "e1f8e5f4-bb4e-43c2-87b5-2f0afce0f7a5",
+      "actUserId": "1f63824e-a9f6-11ee-98ce-544810e80f4b",
+      "id": "e2fdde9c-4937-4940-b9b2-1ffc6a1d169b",
+      "userType": "A"
+    }
+  ],
+  "actOutputs": [
+    {
+      "actId": "27c5553f-8d68-44ca-af01-371fb73c548d",
+      "createdDate": "2024-01-24T03:13:35.000+00:00",
+      "createdUserId": "1f63824e-a9f6-11ee-98ce-544810e80f4b",
+      "id": "e1f8e5f4-bb4e-43c2-87b5-2f0afce0f7a5",
+      "name": "Output test",
+      "note": "Output note",
+      "onum": 1,
+      "toDate": "2024-01-30T17:00:00.000+00:00",
+      "toDateString": "2024/01/31"
+    }
+  ],
+  "actUsers": [
+    {
+      "actId": "27c5553f-8d68-44ca-af01-371fb73c548d",
+      "actUserId": "1f63824e-a9f6-11ee-98ce-544810e80f4b",
+      "id": "e29872de-96df-4c74-8c98-5d484ca36c98",
+      "note": null,
+      "state": null,
+      "stateDate": null,
+      "userType": "A"
+    },
+    {
+      "actId": "27c5553f-8d68-44ca-af01-371fb73c548d",
+      "actUserId": "4e7b4adc-aa02-11ee-98ce-544810e80f4b",
+      "id": "f3653e41-d31d-4810-a2ab-dd83e2c0c24f",
+      "note": null,
+      "state": null,
+      "stateDate": null,
+      "userType": "V"
+    },
+    {
+      "actId": "27c5553f-8d68-44ca-af01-371fb73c548d",
+      "actUserId": "4e7b4ccb-aa02-11ee-98ce-544810e80f4b",
+      "id": "a76f29d2-2c57-43de-ac18-eab5ad9ec0a1",
+      "note": null,
+      "state": null,
+      "stateDate": null,
+      "userType": "S"
+    }
+  ],
+  "acts": [
+    {
+      "actId": "5400d0d2-5a61-4945-9362-0f95fdd37764",
+      "createdDate": "2024-01-24T03:13:35.000+00:00",
+      "createdUserId": "1f63824e-a9f6-11ee-98ce-544810e80f4b",
+      "id": "27c5553f-8d68-44ca-af01-371fb73c548d",
+      "name": "Toob test",
+      "onum": 1,
+      "sentDate": null,
+      "statep": "0",
+      "toDate": "2024-01-15T17:00:00.000+00:00",
+      "toDateString": "2024/01/16"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+export interface DataSAType {
+  actUsers: {
+    actId: string;
+    actUserId: string;
+    id: string;
+    jsonData: string;
+    note: string;
+    rowState: string;
+    state: string;
+    stateDate: string;
+    stateuName: string;
+    userName: string;
+    userType: string;
+  }[];
+  actViews: {
+    a: string;
+    accountable: string;
+    actId: string;
+    actType: string;
+    apvMethod: string;
+    apvMethodName: string;
+    c: string;
+    checker: string;
+    companyId: string;
+    companyName: string;
+    createdDate: string;
+    createdUserId: string;
+    createdUserName: string;
+    functId: string;
+    functName: string;
+    id: string;
+    ipamId: string;
+    ipamName: string;
+    m: string;
+    mapFlowId: string;
+    mapFlowName: string;
+    name: string;
+    note: string;
+    onum: number;
+    priorityId: string;
+    priorityName: string;
+    role: string;
+    rowState: string;
+    s: string;
+    saType: string;
+    saTypeName: string;
+    sentDate: string;
+    sosSoi: string;
+    state: string;
+    stateApv: string;
+    statep: string;
+    statepName: string;
+    stateuName: string;
+    toDate: string;
+    toDateString: string;
+    updatedDate: string;
+    v: string;
+    validator: string;
+    x: string;
+    y: string;
+  }[];
+  acts: string;
+}
+export interface actUsersType {
+  actId: string;
+  actUserId: string;
+  id: string;
+  jsonData: string;
+  note: string;
+  rowState: string;
+  state: string;
+  stateDate: string;
+  stateuName: string;
+  userName: string;
+  userType: string;
+}
+[];
